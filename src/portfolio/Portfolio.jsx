@@ -10,7 +10,7 @@ const Portfolio = (props) => {
             <p>Material UI</p>
             <p>EmailJS</p>
             <p>レスポンシブデザイン</p>
-            <Button href="https://www.google.co.jp/">ソースコードはこちら</Button>
+            <Button href="https://github.com/pahuunn/portfolio">ソースコードはこちら</Button>
         </section>
     );
 };
