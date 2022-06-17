@@ -1,0 +1,23 @@
+section > p{
+    margin: 10px;
+}
+
+section > h1{
+    background-color: #58656e;
+    line-height: 50px;
+    font: bold calc(1em + 2 * (100vw - 120px) / 100) 'Dancing Script', cursive,
+        fantasy;
+    margin: 0px;
+    color: #fff;
+}
+
+
+section > h2{
+    line-height: 50px;
+    font: bold calc(1em + 2 * (100vw - 120px) / 300) 'Dancing Script', cursive,
+        fantasy;
+}
+
+section{
+    margin-bottom: 10px;
+}

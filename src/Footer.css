@@ -1,0 +1,11 @@
+.Footer{
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    background-color: #212121;
+}
+
+.Footer > p{
+    color: aliceblue;
+}
